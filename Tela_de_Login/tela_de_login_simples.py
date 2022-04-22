@@ -123,7 +123,7 @@ class Tela_de_login:
 
         janela_redefinir.close()
 
-
+# Tela Inicial
     def tela_inicial(self):
         sg.theme('LightPurple')
 
